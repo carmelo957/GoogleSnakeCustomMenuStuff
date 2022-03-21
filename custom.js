@@ -1,4 +1,4 @@
-window.snake.more_menu = function() {
+window.snake.more_menu = function() window.snake.more_menu();{
   window.snake_scheme_epic_cool = window.snake_scheme_epic_cool || { light_squares: '#AAD751', dark_squares:  '#A2D149' };
   window.snake_scheme_epic_cool = window.snake_scheme_epic_cool || { light_squares: '#AAD751', dark_squares:  '#A2D149' };
   
